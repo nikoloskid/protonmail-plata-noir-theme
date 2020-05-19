@@ -19,7 +19,8 @@ A ProtonMail theme based on the [Plata GTK theme](https://gitlab.com/tista500/pl
 ![](https://i.imgur.com/9YBnSYd.png)
 
 ## Requirements
-The open-source Roboto font is recommended by author of the official Plata theme. This theme is configured to use Roboto if it's available on the user's system.
+* Use v4 version of Protonmail (https://beta.protonmail.com)
+* The open-source Roboto font is recommended by author of the official Plata theme. This theme is configured to use Roboto if it's available on the user's system.
 https://fonts.google.com/specimen/Roboto
 
 ## Installation
