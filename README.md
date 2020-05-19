@@ -1,0 +1,1 @@
+# protonmail-plata-noir-theme
