@@ -202,13 +202,6 @@ button.pm-button-blue:hover {
 }
 .conversation.marked::before {
     background-color: #5666BD;
-    content: "";
-    display: block;
-    position: absolute;
-    height: 100%;
-    width: 5px;
-    top: 0;
-    left: 0;
 }
 
 /* Misc */
