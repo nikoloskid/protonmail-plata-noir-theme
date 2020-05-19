@@ -2,6 +2,8 @@
 
 A ProtonMail theme based on the [Plata GTK theme](https://gitlab.com/tista500/plata-theme) (Plata Noir dark variant).  This project is not in any way affiliated with neither ProtonMail nor the Plata Theme.
 
+![](https://i.imgur.com/9YBnSYd.png)
+
 ![](https://i.imgur.com/IfcBaYU.png)
 
 ## Installation
