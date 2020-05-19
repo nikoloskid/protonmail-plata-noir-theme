@@ -203,6 +203,9 @@ button.pm-button-blue:hover {
 .conversation.marked::before {
     background-color: #5666BD;
 }
+.item-container:not(.item-is-selected):not(.read):not(.active) {    
+    background-color: var(--bgcolor-unread-item-column-list) !important;
+}
 
 /* Misc */
 .message-container {
